@@ -3,7 +3,7 @@ A collection of demo versions software from MCU Innovations (https://mcuinnovati
 
 Honda ECU version 3.3.0 is a free version of MCU Innovations.
 
-For HondaECU-3.5.5.2 and RenesasRecovery-1.1.0 because the file exceeds 25M it can be downloaded here.
+For HondaECU-3.5.5.2, RenesasRecovery-1.1.0 and HondaECU_Lite_CANbus_Edition_Remote_Flash-1.3.3 because the file exceeds 25M it can be downloaded here.
 
 > HondaECU-3.5.5.2-x86-installer.
 
