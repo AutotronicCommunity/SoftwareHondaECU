@@ -12,3 +12,7 @@ https://drive.google.com/file/d/1MUSlJLxlK70YyRQbHYGmNErTXxLf8EqH/view?usp=shari
 > RenesasRecovery-1.1.0-x86-installer.
 
 https://drive.google.com/file/d/1W61zQAGyJz9-P6TgSIPRbk_IbW0LL74-/view?usp=sharing
+
+> HondaECU_Lite_CANbus_Edition_Remote_Flash-1.3.3-x86-installer
+
+https://drive.google.com/file/d/1-vaCmf2sXj1bVaBPLR6wFkm4K7I14lgD/view?usp=sharing
